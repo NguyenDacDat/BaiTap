@@ -1,0 +1,32 @@
+* {
+  padding: 0%;
+  margin: 0%;
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background-color: beige;
+  display: flex;
+  justify-content: center;
+  padding: 10px;
+  vertical-align: sub;
+}
+
+.container {
+  width: 80%;
+  background: #fff;
+}
+
+.p {
+  text-align: justify;
+  padding: 5px 20px;
+  justify-content: center;
+}
+
+.span {
+  font-size: 30px;
+  vertical-align: sub;
+  color: brown;
+}
